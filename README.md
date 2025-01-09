@@ -35,7 +35,6 @@ Voici le *tech stack* reformatté avec les éléments en ligne dans chaque caté
 ### **Matériel et autres :**  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)  
 
-Souhaitez-vous d'autres ajustements ou améliorations ? 😊
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nispace&theme=radical&hide_border=false)<br/>
