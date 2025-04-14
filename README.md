@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Nicolas<br>A passionate developer from France<br><br>🔭 I’m currently working at BTS SIO Fenelon<br>🌱 I’m currently learning DART/FLUTTER<br>📫 How to reach me : nico.b9@orange.fr<br>
+Hi 👋, I'm Nicolas<br>A passionate developer from France<br>🌱 I’m currently learning DART/FLUTTER<br>📫 How to reach me : nico.b9@orange.fr<br>
 
 
 ## 🌐 Socials:
